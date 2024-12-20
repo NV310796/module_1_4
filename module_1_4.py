@@ -5,4 +5,3 @@ print('Нижний регистр:', my_string.lower())
 print('Без пробелов:', my_string.replace(' ', ''))
 print('Первый символ:', my_string[0])
 print('Последний символ:', my_string[-1])
-import this
